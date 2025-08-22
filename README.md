@@ -22,3 +22,6 @@ Python: The primary programming language for data processing, model development,
 Pandas: For efficient data manipulation and analysis.
 scikit-learn: For various machine learning algorithms, including feature extraction (e.g., TF-IDF) and similarity calculations.
 TMDB API: For accessing comprehensive movie data.
+
+
+Future plans - Mkae a stearmlit app, add sementic meaning, and movie info - Lets see how many can I do
